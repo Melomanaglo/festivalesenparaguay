@@ -3,7 +3,7 @@
 Colocar una descripcion de lo que hacemos o lo que queremos contar
 
  
-📄 [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-dC1a43E5lL18jxei0Q2VPklyt1Ms/pubhtml?gid=0&single=true) del archivo para contribuir con información de Festivales en el Paraguay! 
+📄 [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-dC1a43E5lL18jxei0Q2VPklyt1Ms/edit?gid=0#gid=0) del archivo para contribuir con información de Festivales en el Paraguay! 
 
 ## 🗂️ Diccionario de Datos
 
