@@ -1,11 +1,33 @@
 #  20 años de Historia Festivalera 🤘🏻
 
-Colocar una descripcion de lo que hacemos o lo que queremos contar
+Hola! Quisimos crear este espacio para compartir data y análisis sobre los festivales y sus artistas en Paraguay, a modo de conocer nuestra historia y evolución cultural.
 
  
-📄 [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-dC1a43E5lL18jxei0Q2VPklyt1Ms/edit?gid=0#gid=0) del archivo para contribuir con información de Festivales en el Paraguay! 
+En el siguiente  [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-dC1a43E5lL18jxei0Q2VPklyt1Ms/edit?gid=0#gid=0) están cargados datos públicos que utilizamos para los análisis y estás invitada/o a seguir cargando información que nos permita corroborar lo que ya tenemos o seguir haciendo crecer este archivo.
 
-## 🗂️ Diccionario de Datos
+#### *Este archivo solo contempla a artistas nacionales*.
+
+## Algunos gráficos para entender nuestra evolución festivalera
+
+<p align="left"> 
+<img src="https://github.com/Melomanaglo/festivalesenparaguay/blob/main/imagenes/Slide_1.gif" alt="Cantidad de Festivales por año" width="700">
+<img src="https://github.com/Melomanaglo/festivalesenparaguay/blob/main/imagenes/Slide_2.gif" alt="Septiembre y diciembre son los Meses Festivaleros" width="700">
+<img src="https://github.com/Melomanaglo/festivalesenparaguay/blob/main/imagenes/Slide_3.gif" alt="Cantidad de Artistas por festival" width="700">
+<img src="https://github.com/Melomanaglo/festivalesenparaguay/blob/main/imagenes/Slide_4.gif" alt="Analisis de cantidad de bandas para el Asuncionico" width="700">
+<img src="https://github.com/Melomanaglo/festivalesenparaguay/blob/main/imagenes/Slide_5-v2.gif" alt="Cantidad de mujeres en conciertos" width="700">
+<img src="https://github.com/Melomanaglo/festivalesenparaguay/blob/main/imagenes/Slide_6.gif" alt="Top 3 de bandas con mayor participación" width="700">
+</p>
+
+
+### [Bibliografía aquí💥](https://github.com/Melomanaglo/festivalesenparaguay/blob/main/Bibliografia.md)
+
+### Agradecimientos:
+
+A Osval Fretes, [Mathi Chaparro Duarte](https://www.linkedin.com/in/mathias-chaparro-duarte/), Ale Ruiz y a todas esas personas que nunca van a dejar de hacer música en Paraguay.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🗂️ Diccionario de Datos del Excel en el link
 
 ### Festivales en Paraguay
 
