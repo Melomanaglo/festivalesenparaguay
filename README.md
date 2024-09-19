@@ -21,9 +21,13 @@ En el siguiente  [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-d
 
 ### [Bibliografía aquí💥](https://github.com/Melomanaglo/festivalesenparaguay/blob/main/Bibliografia.md)
 
-### Agradecimientos:
+#### Creadora:
 
-A Osval Fretes, [Mathi Chaparro Duarte](https://www.linkedin.com/in/mathias-chaparro-duarte/), Ale Ruiz y a todas esas personas que nunca van a dejar de hacer música en Paraguay.
+[Gloria Chaparro](https://www.instagram.com/g_lochd/)
+
+#### Agradecimientos:
+
+A Osval Fretes, [Mathi Chaparro Duarte](https://www.instagram.com/mathias.chd/), Ale Ruiz y a todas esas personas que nunca van a dejar de hacer música en Paraguay.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,11 +50,3 @@ A Osval Fretes, [Mathi Chaparro Duarte](https://www.linkedin.com/in/mathias-chap
 | LINK                   | En esta columna se indica el enlace a una noticia o flyer referente al festival.                                                                            |
 | EXPERIENCIA                  | En esta columna se puede compartir la experiencia vivida en el festival 🤘🏻.                                                                                         |
 | CARGADO POR                  | En esta columna puedes cargar tu nombre o @ para que te mencionemos en los contenidos.                                                                                |
-
-
-
-
-## Síguenos en Instagram
-
-¡Síguenos en Instagram para más actualizaciones y contenido! 📸✨  
-<a href="https://www.instagram.com/melomana.strategic/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"></a> [@melomana.strategic](https://www.instagram.com/melomana.strategic/)
