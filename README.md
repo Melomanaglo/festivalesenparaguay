@@ -3,7 +3,7 @@
 Hola! Quisimos crear este espacio para compartir data y análisis sobre los festivales y sus artistas en Paraguay, a modo de conocer nuestra historia y evolución cultural.
 
  
-En el siguiente  [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-dC1a43E5lL18jxei0Q2VPklyt1Ms/edit?gid=0#gid=0) están cargados datos públicos que utilizamos para los análisis y estás invitada/o a seguir cargando información que nos permita corroborar lo que ya tenemos o seguir haciendo crecer este archivo.
+En el siguiente  [Link](https://docs.google.com/spreadsheets/d/10qpAe0L747MLAO-dC1a43E5lL18jxei0Q2VPklyt1Ms/edit?gid=0#gid=0) están cargados datos públicos que utilizamos para los análisis y estás invitada/o/e a seguir cargando información que nos permita corroborar lo que ya tenemos o seguir haciendo crecer este archivo.
 
 #### *Este archivo solo contempla a artistas nacionales*.
 
